@@ -1,0 +1,41 @@
+body{
+    
+    font-family: sans-serif;
+}
+
+#container{
+    width:1700;
+    height:650px;
+    background-position:right;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/da/Imperial_Academy_of_Hue.jpg);
+    
+}
+.header1{
+    text-align: center;
+    background-color:grey;
+    color:firebrick;
+    padding:5px;
+    
+}
+#footer{
+    padding:10px;
+    background-color:black;
+    color:white;
+    text-align:right;
+}
+#Academy{
+    text-align:center;
+    color:brown;
+}
+.table1{
+    text-align:left;
+    color:#e8dddc;
+    
+}
+.table2{
+    text-decoration-color:green;
+}
+#figure{
+    text-align: center;
+    background-color:000;
+}
